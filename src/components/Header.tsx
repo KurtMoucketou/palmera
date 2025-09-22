@@ -25,7 +25,7 @@ export const Header: React.FC<HeaderProps> = ({ currentPage, onPageChange }) => 
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-2 cursor-pointer" onClick={() => onPageChange('home')}>
             {/* <div className="bg-gradient-to-r from-orange-500 to-red-500 p-2 rounded-lg"> */}
-              <img src="../public/images/palmera_restauration_logo.png" className="w-8 h-8 text-white" />
+              <img src="/images/palmera_restauration_logo.png" className="w-8 h-8 text-white" />
               {/* <Utensils className="w-6 h-6 text-white" /> */}
             {/*</div>*/}
             <div>

@@ -52,7 +52,7 @@ export const About: React.FC = () => {
             </div>
             <div className="relative">
               <img 
-                src="../public/images/palmera_003.jpg"
+                src="/images/palmera_003.jpg"
                 alt="Chef Palmera"
                 className="rounded-2xl shadow-2xl"
               />
@@ -151,19 +151,19 @@ export const About: React.FC = () => {
               {
                 name: 'Mamadou Diallo',
                 role: 'Chef Exécutif & Fondateur',
-                image: '../public/images/palmera_004.jpg',
+                image: '/images/palmera_004.jpg',
                 description: 'Avec 15 ans d\'expérience, Mamadou allie tradition guinéenne et techniques modernes.'
               },
               {
                 name: 'Fatoumata Camara',
                 role: 'Directrice Événementiel',
-                image: '../public/images/palmera_009.jpg',
+                image: '/images/palmera_009.jpg',
                 description: 'Spécialiste en organisation d\'événements, elle coordonne chaque détail avec perfection.'
               },
               {
                 name: 'Alpha Bah',
                 role: 'Chef Pâtissier',
-                image: '../public/images/palmera_008.jpg',
+                image: '/images/palmera_008.jpg',
                 description: 'Artiste de la pâtisserie, il crée des desserts qui émerveilleront vos invités.'
               }
             ].map((member, index) => (

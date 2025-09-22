@@ -7,11 +7,11 @@ interface HomeProps {
 
 export const Home: React.FC<HomeProps> = ({ onPageChange }) => {
   const partners = [
-    { id: 1, name: 'MTN Guinée', logo: '/public/images/logo-loumo-400.png' },
-    { id: 2, name: 'Orange Guinée', logo: '/public/images/sosno-logo.png' },
-    { id: 3, name: 'Bank of Africa', logo: '/public/images/Orange-guinee.png' },
-    { id: 4, name: 'Ecobank Guinée', logo: '/public/images/GMC-logo.webp' },
-    { id: 5, name: 'Hotel Kaloum', logo: '/public/images/logos.png' },
+    { id: 1, name: 'MTN Guinée', logo: '/images/logo-loumo-400.png' },
+    { id: 2, name: 'Orange Guinée', logo: '/images/sosno-logo.png' },
+    { id: 3, name: 'Bank of Africa', logo: '/images/Orange-guinee.png' },
+    { id: 4, name: 'Ecobank Guinée', logo: '/images/GMC-logo.webp' },
+    { id: 5, name: 'Hotel Kaloum', logo: '/images/logos.png' },
     { id: 6, name: 'Chambre de Commerce', logo: 'https://images.pexels.com/photos/3184296/pexels-photo-3184296.jpeg?auto=compress&cs=tinysrgb&w=200&h=100' }
   ];
 

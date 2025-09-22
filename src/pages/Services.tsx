@@ -50,7 +50,7 @@ export const Services: React.FC = () => {
       title: 'Service Traiteur',
       description: 'Livraison de repas gourmets à domicile ou sur votre lieu d\'événement',
       icon: <Utensils className="w-12 h-12 text-orange-500" />,
-      image: '../public/images/palmera_005.jpg',
+      image: '/images/palmera_005.jpg',
       features: [
         'Livraison à domicile',
         'Buffets chauds et froids',
