@@ -8,7 +8,7 @@ export const Services: React.FC = () => {
       title: 'Événements d\'Entreprise',
       description: 'Séminaires, conférences, lancements de produits, formations et réunions d\'affaires',
       icon: <Building className="w-12 h-12 text-orange-500" />,
-      image: '../public/images/Palmera_008.jpg',
+      image: '/images/Palmera_008.jpg',
       features: [
         'Petits-déjeuners d\'affaires',
         'Déjeuners de travail',

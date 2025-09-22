@@ -20,7 +20,7 @@ export const Prestations: React.FC = () => {
       category: 'corporate',
       description: 'Déjeuner d\'affaires pour 150 participants',
       images: [
-        '/images/palmera_007.jpg',
+        '/images/Palmera_007.jpg',
         'https://images.pexels.com/photos/1640791/pexels-photo-1640791.jpeg?auto=compress&cs=tinysrgb&w=800&h=600',
         'https://images.pexels.com/photos/1640792/pexels-photo-1640792.jpeg?auto=compress&cs=tinysrgb&w=800&h=600',
         'https://images.pexels.com/photos/1640793/pexels-photo-1640793.jpeg?auto=compress&cs=tinysrgb&w=800&h=600'
