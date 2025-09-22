@@ -52,7 +52,7 @@ export const About: React.FC = () => {
             </div>
             <div className="relative">
               <img 
-                src="/images/palmera_003.jpg"
+                src="/images/Palmera_003.jpg"
                 alt="Chef Palmera"
                 className="rounded-2xl shadow-2xl"
               />
