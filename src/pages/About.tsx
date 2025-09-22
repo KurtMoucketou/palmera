@@ -151,19 +151,19 @@ export const About: React.FC = () => {
               {
                 name: 'Mamadou Diallo',
                 role: 'Chef Exécutif & Fondateur',
-                image: '/images/palmera_004.jpg',
+                image: '/images/Palmera_004.jpg',
                 description: 'Avec 15 ans d\'expérience, Mamadou allie tradition guinéenne et techniques modernes.'
               },
               {
                 name: 'Fatoumata Camara',
                 role: 'Directrice Événementiel',
-                image: '/images/palmera_009.jpg',
+                image: '/images/Palmera_009.jpg',
                 description: 'Spécialiste en organisation d\'événements, elle coordonne chaque détail avec perfection.'
               },
               {
                 name: 'Alpha Bah',
                 role: 'Chef Pâtissier',
-                image: '/images/palmera_008.jpg',
+                image: '/images/Palmera_008.jpg',
                 description: 'Artiste de la pâtisserie, il crée des desserts qui émerveilleront vos invités.'
               }
             ].map((member, index) => (

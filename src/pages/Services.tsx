@@ -8,7 +8,7 @@ export const Services: React.FC = () => {
       title: 'Événements d\'Entreprise',
       description: 'Séminaires, conférences, lancements de produits, formations et réunions d\'affaires',
       icon: <Building className="w-12 h-12 text-orange-500" />,
-      image: '../public/images/palmera_008.jpg',
+      image: '../public/images/Palmera_008.jpg',
       features: [
         'Petits-déjeuners d\'affaires',
         'Déjeuners de travail',
@@ -50,7 +50,7 @@ export const Services: React.FC = () => {
       title: 'Service Traiteur',
       description: 'Livraison de repas gourmets à domicile ou sur votre lieu d\'événement',
       icon: <Utensils className="w-12 h-12 text-orange-500" />,
-      image: '/images/palmera_005.jpg',
+      image: '/images/Palmera_005.jpg',
       features: [
         'Livraison à domicile',
         'Buffets chauds et froids',
