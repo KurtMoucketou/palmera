@@ -35,7 +35,7 @@ export const Prestations: React.FC = () => {
         'https://images.pexels.com/photos/1640794/pexels-photo-1640794.jpeg?auto=compress&cs=tinysrgb&w=800&h=600',
         'https://images.pexels.com/photos/1640795/pexels-photo-1640795.jpeg?auto=compress&cs=tinysrgb&w=800&h=600',
         'https://images.pexels.com/photos/1640796/pexels-photo-1640796.jpeg?auto=compress&cs=tinysrgb&w=800&h=600',
-        'https://images.pexels.com/photos/1640797/pexels-photo-1640797.jpeg?auto=compress&cs=tinysrgb&w=800&h=600'
+        '/images/Palmera_005.jpg'
       ]
     },
     {
@@ -44,9 +44,9 @@ export const Prestations: React.FC = () => {
       category: 'corporate',
       description: 'Cocktail dînatoire avec présentation',
       images: [
-        'https://images.pexels.com/photos/1640798/pexels-photo-1640798.jpeg?auto=compress&cs=tinysrgb&w=800&h=600',
+        '/images/Palmera_003.jpg',
         'https://images.pexels.com/photos/1640799/pexels-photo-1640799.jpeg?auto=compress&cs=tinysrgb&w=800&h=600',
-        'https://images.pexels.com/photos/1640800/pexels-photo-1640800.jpeg?auto=compress&cs=tinysrgb&w=800&h=600'
+        '/images/Palmera_009.jpg'
       ]
     },
     {
@@ -55,9 +55,9 @@ export const Prestations: React.FC = () => {
       category: 'private',
       description: 'Fête d\'anniversaire intimiste',
       images: [
-        'https://images.pexels.com/photos/1640801/pexels-photo-1640801.jpeg?auto=compress&cs=tinysrgb&w=800&h=600',
+        '/images/Palmera_008.jpg',
         'https://images.pexels.com/photos/1640802/pexels-photo-1640802.jpeg?auto=compress&cs=tinysrgb&w=800&h=600',
-        'https://images.pexels.com/photos/1640803/pexels-photo-1640803.jpeg?auto=compress&cs=tinysrgb&w=800&h=600'
+        '/images/Palmera_004.jpg'
       ]
     },
     {
@@ -66,7 +66,7 @@ export const Prestations: React.FC = () => {
       category: 'catering',
       description: 'Service traiteur pour réunion de famille',
       images: [
-        'https://images.pexels.com/photos/1640804/pexels-photo-1640804.jpeg?auto=compress&cs=tinysrgb&w=800&h=600',
+        '/images/Palmera_004.jpg',
         'https://images.pexels.com/photos/1640805/pexels-photo-1640805.jpeg?auto=compress&cs=tinysrgb&w=800&h=600'
       ]
     },
